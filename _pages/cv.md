@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+# link: "https://hanyujin02.github.io/files/Hanyu_Jin_CV.pdf"
 ---
 <!-- <meta http-equiv=“refresh” content=“0; url=../files/Resume_qianqiay.pdf”> -->
 [CV](https://hanyujin02.github.io/files/Hanyu_Jin_CV.pdf)
