@@ -8,7 +8,7 @@ redirect_from:
 # link: "https://hanyujin02.github.io/files/Hanyu_Jin_CV.pdf"
 ---
 <!-- <meta http-equiv=“refresh” content=“0; url=../files/Resume_qianqiay.pdf”> -->
-[CV](https://hanyujin02.github.io/files/Hanyu_Jin_CV.pdf)
+Please feel free to find my [CV](https://hanyujin02.github.io/files/Hanyu_Jin_CV.pdf)
 
 <!-- 
 {% include base_path %}
