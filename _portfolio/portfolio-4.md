@@ -18,5 +18,5 @@ A soft continuum robot, validating an open-loop control strategy for inverse kin
 
 Impact and Future Directions: This platform standardizes the prototyping and validation process for soft robotic systems, accelerating research and development in this field. Future work will involve integrating additional control algorithms and expanding the platform's compatibility with new actuator technologies.
 
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+More details can be found [here](https://github.com/ucl-robotics-ai/test-platform-soft-robotics)
+<!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->

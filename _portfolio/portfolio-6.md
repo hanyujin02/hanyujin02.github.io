@@ -2,7 +2,7 @@
 title: "Battle City Demo"
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
-link: 'https://www.youtube.com/embed/ksypBzIfhqw'
+# link: 'https://www.youtube.com/embed/ksypBzIfhqw'
 ---
 
 This project focused on creating a dynamic and engaging two-player game demo inspired by the classic Battle City game. Using C++ and OpenGL, we developed a game where players control two tanks to battle against each other in a simulated environment. The project emphasized realistic physical motion and interactions, including tank movement, bullet trajectories, and collision dynamics, to deliver an immersive gameplay experience.
@@ -18,5 +18,5 @@ The final Battle City demo successfully implemented a two-player mode where tank
 
 The project demonstrated the effective use of C++ and OpenGL in creating a physics-driven game. The battle simulation provided players with an engaging and realistic gaming experience, laying the groundwork for further enhancements such as AI-controlled opponents or additional gameplay mechanics.
 
-
+More details can be found [here](https://www.youtube.com/embed/ksypBzIfhqw)
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->

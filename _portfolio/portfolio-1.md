@@ -2,7 +2,7 @@
 title: "UAV Autonomous Navigation in Dynamic Environments"
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
-link: 'https://www.youtube.com/watch?v=UeBShELDzyM'
+# link: 'https://www.youtube.com/watch?v=UeBShELDzyM'
 ---
 
 In recent years, lightweight autonomous unmanned aerial vehicles (UAVs) have shown great potential for inspection and mapping in indoor construction sites. However, navigating in indoor environments is complex because of the presence of static and dynamic objects. In this project, we are introducing a navigation framework that enables safe operation in dynamic environments. This report introduces a planning based collision avoidance methodology to generate collision-free trajectories for UAVs using sensor input including camera image and localization. The overall framework aims at tracking a reference trajectory and preventing collision to obstacles. In this report, the methodology for the planner module is introduced and the performance of the framework is demonstrated.
@@ -13,5 +13,7 @@ In the experiment, we test the system in three different indoor and outdoor envi
 
 In conclusion, we have introduced a  MPC planner based framework for dynamic navigation of UAVs in indoor environments. The system is proved to be able to avoid collisions and run stably in real-time.
 
+More details can be found [here](https://www.youtube.com/watch?v=UeBShELDzyM).
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+<!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
